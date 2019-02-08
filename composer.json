@@ -1,0 +1,17 @@
+{
+    "name": "qwer2/test-project",
+    "description": "Test package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "qwer",
+            "email": "qwer@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qwer\\": "src/"
+        }
+    },
+    "require": {}
+}
